@@ -1,0 +1,126 @@
+nav{
+				
+	background-color: #00FFCC;
+	}
+
+ul{
+	margin: 0;
+	}
+
+li {
+	display: inline-block;
+	list-style-type: none;
+	margin:0 20px;
+	line-height: 60px;
+
+	}
+a{
+	color:navy;
+	text-decoration: none;
+	font-family: "roboto light";
+	}
+
+	
+h1{
+	color: brown; 
+	text-align: center;
+	font-size: 36px; 
+	font-family: georgia
+}
+
+h2{
+	color: #330033; 
+	text-align: center;
+	font-size: 18px; 
+	font-family: georgia
+}
+
+h4{
+	color: brown; 
+	text-align: center;
+	font-size: 24px; 
+	font-family: georgia
+}
+
+
+body{
+	color: #330033;
+	background-color:#CC9966;
+}
+
+
+img{
+	height: 70%;
+	width: 70%
+}
+
+ul{
+	font-family: georgia; 
+}
+
+#Ingredients{
+	color:brown;
+	text-align: center; 
+	font-size: 24px; 
+}
+
+.banana{
+	color:#330033;
+text-align: center;
+font-size: 18px;
+}
+
+.butter{
+	color:#330033;
+	text-align: center;
+	font-size: 18px;
+}
+.eggs{
+	color:#330033;
+	text-align: center;
+	font-size: 18px;
+}
+
+.sugar{
+	color:#330033;
+	text-align: center;
+	font-size: 18px;
+}
+
+.vanilla{
+	color:#330033;
+	text-align: center;
+	font-size: 18px;
+}
+
+.bakingsoda{
+	color:#330033;
+	text-align: center;
+	font-size: 18px
+}
+
+.salt{
+	color:#330033;
+	text-align: center;
+	font-size: 18px
+}
+
+.flour{
+	color:#brown;
+	text-align: center;
+	font-size: 18px
+}
+
+
+.method{
+	color:#330033;
+	text-align: left;
+	font-size: 24px;
+
+}
+
+
+
+
+
+
